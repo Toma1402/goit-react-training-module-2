@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-react-training-module-2/static/css/main.8c611b1f.css",
+    "main.js": "/goit-react-training-module-2/static/js/main.c4d70f20.js",
+    "index.html": "/goit-react-training-module-2/index.html",
+    "main.8c611b1f.css.map": "/goit-react-training-module-2/static/css/main.8c611b1f.css.map",
+    "main.c4d70f20.js.map": "/goit-react-training-module-2/static/js/main.c4d70f20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c611b1f.css",
+    "static/js/main.c4d70f20.js"
+  ]
+}
