@@ -1,6 +1,6 @@
-import { Counter } from './Counter/Counter';
-import { Dropdown } from './Dropdown/Dropdown';
-import { ColorPicker } from './ColorPicker/ColorPicker';
+import { Counter } from './Counter';
+import { Dropdown } from './Dropdown';
+import { ColorPicker } from './ColorPicker';
 const colorPickerOptions = [
   { label: 'red', color: '#F44336' },
   { label: 'green', color: '#008000' },
